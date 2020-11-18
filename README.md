@@ -4,6 +4,6 @@ Reference:
 https://github.com/traintestbritt/classifying_reddit_posts/tree/master/notebooks
 
 Extracted custom data using:
-https://www.reddit.com/r/<subreddit>/.json
+https://www.reddit.com/r/customsubreddit/.json
 
   
